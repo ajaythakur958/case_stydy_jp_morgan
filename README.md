@@ -24,3 +24,8 @@ new regulations.
 
 Problem Statement/ Business objectives: How would you break the problem/scenario down with the help of CRISP-DM methodology: “Automate the
 classification of various legal documents”.
+
+## 📬 Connect With Me
+
+*Ajay | Data Analyst*  
+🔗 LinkedIn: [linkedin](https://www.linkedin.com/in/ajay-thakur-5158bb186/)
